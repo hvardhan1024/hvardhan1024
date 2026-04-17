@@ -1,13 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi,+I'm+Harshavardhan;" />
-</h1>
+# Harshavardhan
 
-<p align="center">
-  Engineer building high-performance systems and AI infrastructure.<br/>
-  MCA @ RVCE, Bengaluru
-</p>
+**Software Engineer | Distributed Systems, High-Performance Backends & AI Infrastructure** MCA @ RVCE, Bengaluru
 
-<p align="center">
+I am a software engineer focused on building resilient architecture. During the day, I ship production web services and cloud infrastructure. Alongside my professional work, I build foundational systems-load balancers, storage engines, and LLM inference pipelines-from scratch to deeply understand the abstractions I rely on.
+
+<p align="left">
   <a href="https://linkedin.com/in/hvardhan1024"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;
   <a href="https://hvardhan1024.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
@@ -19,29 +16,28 @@
 
 ---
 
-### Currently building
-- High-performance systems from scratch in C++ (load balancers, storage engines, consensus)
-- LLM inference optimization research — prefill/decode disaggregation and RL scheduling
-- Documenting implementations, measurements, and trade-offs on Hashnode
+### Current Focus
+- Deepening my expertise in high-scale backend architecture and distributed systems.
+- Building high-throughput network and storage systems from scratch in C++.
+- Researching LLM inference optimization, specifically prefill/decode disaggregation and RL scheduling.
+- Documenting implementations, architectural trade-offs, and failure modes on [Hashnode](https://hashnode.com/@hvardhan1024).
 
-### Stack
-| Category          | Technologies |
-|-------------------|--------------|
-| **Languages**     | C++ · Python · TypeScript · Rust (learning) |
-| **Backend**       | FastAPI · Flask · Node.js |
-| **AI / LLM**      | RAG · LangChain · LangGraph · MCP |
-| **Infrastructure**| Docker · Kubernetes · AWS · Linux |
-| **Databases**     | PostgreSQL · MongoDB · Redis |
-| **Practices**     | Git · Observability · DevOps |
+### The Stack
 
-### Areas of depth
-| Domain                | Focus |
-|-----------------------|-------|
-| Backend Development   | REST APIs, system design, scalable services |
-| Systems Programming   | Memory, concurrency, performance |
-| Distributed Systems   | Consensus, replication, consistency |
-| AI Infrastructure     | LLM inference, RAG pipelines, vector databases |
-| Cloud & Observability | AWS, containers, monitoring, deployment |
+| Layer | Technologies |
+|---|---|
+| **Production Execution** | TypeScript, Node.js, Angular, TypeORM, PostgreSQL, AWS, Docker, Jenkins |
+| **Systems Depth** | C++, Rust (learning), Linux, Memory Management, Concurrency |
+| **AI & Data Infra** | Python, RAG, LangChain, MCP, MongoDB, Redis |
+
+### Areas of Depth
+
+| Domain | Focus |
+|---|---|
+| **Backend & Cloud** | REST APIs, Event-driven architecture, CI/CD pipelines, AWS deployments |
+| **Systems Programming** | Sockets, `epoll`, lock-free data structures, performance profiling |
+| **Distributed Systems** | Consensus algorithms, replication, eventual consistency, Kafka |
+| **AI Infrastructure** | LLM inference latency optimization, vector databases, agentic workflows |
 
 ### Let's connect
-Working on hard systems problems or AI infrastructure? Reach out on LinkedIn.
+If you are working on hard distributed systems problems, building in the AI infrastructure space, or just want to talk architecture-reach out on [LinkedIn](https://linkedin.com/in/hvardhan1024).
