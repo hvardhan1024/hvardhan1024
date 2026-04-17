@@ -3,12 +3,9 @@
 </h1>
 
 <p align="center">
-  Engineer focused on distributed systems, high-performance backends, and AI infrastructure.
-  <br/>
+  Engineer building high-performance systems and AI infrastructure.<br/>
   MCA @ RVCE, Bengaluru
 </p>
-
-<br/>
 
 <p align="center">
   <a href="https://linkedin.com/in/hvardhan1024"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -23,48 +20,28 @@
 ---
 
 ### Currently building
-
-- Systems from scratch - load balancers, key-value stores, consensus algorithms in C++
-- LLM inference optimization research - prefill-decode separation, RLHF scheduling
-- Writing about every implementation on [Hashnode](https://hvardhan1024.hashnode.dev)
-
----
+- High-performance systems from scratch in C++ (load balancers, storage engines, consensus)
+- LLM inference optimization research — prefill/decode disaggregation and RL scheduling
+- Documenting implementations, measurements, and trade-offs on Hashnode
 
 ### Stack
-
-| | |
-|---|---|
-| **Languages** | C++ · Python · TypeScript · Rust *(learning)* |
-| **Backend** | Node.js · Express · FastAPI · Flask |
-| **AI / LLM** | RAG · MCP · LangChain · LangGraph |
-| **Infrastructure** | Docker · Kubernetes · AWS · Linux |
-| **Databases** | PostgreSQL · MongoDB · Redis |
-| **Practices** | Git · DevOps · Observability |
-
----
+| Category          | Technologies |
+|-------------------|--------------|
+| **Languages**     | C++ · Python · TypeScript · Rust (learning) |
+| **Backend**       | FastAPI · Flask · Node.js |
+| **AI / LLM**      | RAG · LangChain · LangGraph · MCP |
+| **Infrastructure**| Docker · Kubernetes · AWS · Linux |
+| **Databases**     | PostgreSQL · MongoDB · Redis |
+| **Practices**     | Git · Observability · DevOps |
 
 ### Areas of depth
-
-| Domain | Focus |
-|---|---|
-| **Backend Development** | REST APIs, system design, scalable architecture |
-| **Systems Programming** | Memory, concurrency, performance - C++, Rust |
-| **Distributed Systems** | Consensus, replication, consistency, messaging |
-| **AI Infrastructure** | LLM inference, RAG pipelines, vector databases, agents |
-| **Cloud & DevOps** | AWS, containers, monitoring, deployment |
-
----
+| Domain                | Focus |
+|-----------------------|-------|
+| Backend Development   | REST APIs, system design, scalable services |
+| Systems Programming   | Memory, concurrency, performance |
+| Distributed Systems   | Consensus, replication, consistency |
+| AI Infrastructure     | LLM inference, RAG pipelines, vector databases |
+| Cloud & Observability | AWS, containers, monitoring, deployment |
 
 ### Let's connect
-
-If you're working on hard systems problems, building in the AI infrastructure space, or just want to talk architecture - reach out.
-
-<p align="center">
-  <a href="https://linkedin.com/in/hvardhan1024">
-    <img src="https://img.shields.io/badge/Reach_out_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://hvardhan1024.hashnode.dev">
-    <img src="https://img.shields.io/badge/Read_my_writing-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
-</p>
+Working on hard systems problems or AI infrastructure? Reach out on LinkedIn.
